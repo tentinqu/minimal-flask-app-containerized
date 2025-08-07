@@ -193,4 +193,4 @@ docker rmi flask-min        # remove the image
 
 What began as a minimal Flask app evolved into a learning exercise in Docker layering, healthchecks, and container debugging. By incorporating a custom healthcheck and resolving base image limitations, the final result is a more reliable and production-aware container.
 
-Based On (AlexRazor1337's Repo)[https://github.com/AlexRazor1337/flask-docker-minimal]
+Based On [AlexRazor1337's Repo](https://github.com/AlexRazor1337/flask-docker-minimal)
