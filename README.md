@@ -2,7 +2,7 @@
 
 This is a minimal Flask web app containerized using Docker — simple in purpose, but rich in learning. From `COPY` quirks to unexpected container health issues, this README documents the final working setup and the debugging process that led here. Note that the original repository does not have healthcheck mechanisms, but is added here. 
 
-[Minimal SS](https://github.com/tentinqu/minimal-flask-app-containerized/blob/master/minimal-flask-screesnshots/3.png)
+![Minimal SS](https://github.com/tentinqu/minimal-flask-app-containerized/blob/master/minimal-flask-screesnshots/3.png)
 
 ---
 
